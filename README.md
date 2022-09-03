@@ -50,7 +50,7 @@
 
 <!-- Graduated from CORE Code School -->
 
-<h3 align="center">Graduated from CORE Code School <a href="https://www.corecode.school">CORE Code School <img width="17" src="https://www.corecode.school/branding/logo_app.png" alt="CORE Code School" /></a></h3>
+<h3 align="center">Graduated from <a href="https://www.corecode.school">CORE Code School <img width="17" src="https://www.corecode.school/branding/logo_app.png" alt="CORE Code School" /></a></h3>
 
 <br>
 
