@@ -1,8 +1,7 @@
 <!-- Greeting -->
 <div align="center">
-    <h2 align="center">
-      Welcome to Juan Pablo Mora's <i>{ @Systrent }</i> profile! 
-    </h2>
+    <h2 align="center">Welcome to Juan Pablo Mora's profile!</h2>
+    <h4 align="center"><i>{ @Systrent }</i></h4>
     <div align="center">
         <img src="https://media.giphy.com/media/1ZDHKraip2SFwck4kj/giphy.gif" width="55">
     </div>
@@ -50,7 +49,7 @@
 
 <!-- Graduated from CORE Code School -->
 
-<h3 align="center">Graduated from <a href="https://www.corecode.school">CORE Code School <img width="17" src="https://www.corecode.school/branding/logo_app.png" alt="CORE Code School" /></a></h3>
+<h4 align="center">Graduated from <a href="https://www.corecode.school">CORE Code School <img width="17" src="https://www.corecode.school/branding/logo_app.png" alt="CORE Code School" /></a></h4>
 
 <br>
 
