@@ -8,6 +8,8 @@
     </div>
 </div>
 
+<br>
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <div align="center">
