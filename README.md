@@ -1,7 +1,7 @@
 <!-- Greeting -->
 <div align="center">
     <h2 align="center">Welcome to Juan Pablo Mora's profile!</h2>
-    <h4 align="center"><i>< @Systrent  /></i></h4>
+    <h4 align="center"><i>< Systrent  /></i></h4>
     <div align="center">
         <img src="https://media.giphy.com/media/1ZDHKraip2SFwck4kj/giphy.gif" width="55">
     </div>
